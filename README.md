@@ -1,1 +1,3 @@
-[![Artem's GitHub stats](https://github-readme-stats.vercel.app/api?username=ArtMelnykov)](https://github.com/ArtMelnykov/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ArtMelnykov&layout=compact)](https://github.com/ArtMelnykov/github-readme-stats)
+<p><img src="https://github-readme-stats.vercel.app/api?username=ArtMelnykov&theme=dark&show_icons=true&locale=en" alt="ArtMelnykov" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=ArtMelnykov&theme=dark&show_icons=true&locale=en&layout=compact" alt="ArtMelnykov" />
+</p>
